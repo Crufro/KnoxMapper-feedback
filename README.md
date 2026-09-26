@@ -4,14 +4,16 @@ The public home for bug reports, feedback, and feature ideas for **KnoxMapper**,
 
 This repository is connected to the KnoxMapper Discord through **KnoxMapper Helper**. The bot turns posts in the `bug-reports` and `feedback-and-ideas` forums into GitHub issues so the team can track them alongside development. Application and bot code are maintained in the main KnoxMapper repository; this repository holds the public feedback tracker.
 
-[Browse tracked issues](https://github.com/Crufro/KnoxMapper-feedback/issues) · [Open the Discord server](https://discord.com/channels/1550570080860114944)
+[Browse tracked issues](https://github.com/Crufro/KnoxMapper-feedback/issues)
+
+**The Discord server is not live yet. Public access is not available.**
 
 ## Report a bug or share an idea
 
-Start in the appropriate Discord forum (server membership is required):
+For members with pre-launch access, use the appropriate Discord forum:
 
-- [bug-reports](https://discord.com/channels/1550570080860114944/1553448583473139853) — something is broken or behaving unexpectedly.
-- [feedback-and-ideas](https://discord.com/channels/1550570080860114944/1553448640943493250) — suggestions, workflow improvements, and feature requests.
+- `bug-reports` — something is broken or behaving unexpectedly.
+- `feedback-and-ideas` — suggestions, workflow improvements, and feature requests.
 
 Search existing posts or issues first, then create one post per bug or idea. Choose the relevant feature-area tag and use a descriptive title.
 
